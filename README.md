@@ -1,0 +1,3 @@
+This project examines consumer behavior on Amazon using data mining techniques, leveraging the Amazon Consumer Behavior Dataset.
+It utilizes methods like exploratory data analysis, clustering, and classification to analyze shopping patterns, cart abandonment, and satisfaction factors. Key findings include the importance of simplified checkout, accurate ratings, and personalized recommendations in improving customer satisfaction.
+The study identifies three consumer clusters, offering tailored strategies for engagement. Despite its limitations, the research highlights actionable insights for optimizing Amazon's operations and user experience, emphasizing the role of data-driven approaches in e-commerce success. 
